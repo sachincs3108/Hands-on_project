@@ -4,7 +4,7 @@ df=as.data.frame(cbind(x,y))
 df
 plot(df$x,df$y)
 model1=lm(y~x,data=df)
-summar(model1)
+summary(model1)
 p=predict(model1,df) 
 p
   
