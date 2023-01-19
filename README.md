@@ -1,5 +1,6 @@
 # Hands-on_project
---- git_repo folder of logistic regression and Naive Bayes Classifier.
+
+--- git_repo folder of logistic regression and Naive Bayes Classifier Model and their Case Studies. ---
 
 1. Telecom Churn Case Study
   With 21 predictor variables we need to predict whether a particular customer will switch to another telecom provider or not. In telecom terminology,
